@@ -1,0 +1,37 @@
+! Title: Vizio Basic
+! Description: Vizio viewing data, ads, and diagnostics
+! Homepage: https://github.com/imanshafiei540/home-network-dns-blocklists
+!
+! Viewing data
+||control2.tvinteractive.tv^
+||control-zoo-default.tvinteractive.tv^
+||users.tvinteractive.tv^
+!
+! Ad measurement
+||vizio.adsmeasurement.com^
+||pixel.springserve.com^
+||lighthouse.edoinc.com^
+||tps.doubleverify.com^
+||ad.doubleclick.net^
+||b.videoamp.com^
+||pi.ispot.tv^
+||pixel.adsafeprotected.com^
+||lciapi.ninthdecimal.com^
+||d.agkn.com^
+||ipa.atiads.tv^
+||vid-io-iad.springserve.com^
+||vid-io-sjc.springserve.com^
+||secure.insightexpressai.com^
+||engagements.appsflyer.com^
+!
+! Data streaming
+||kinesis.us-west-2.amazonaws.com^
+!
+! AWS IoT (pending testing)
+! ||avkt1jiwvpmcn-ats.iot.us-east-1.amazonaws.com^
+!
+! Diagnostics
+||sentry.io^
+||00199d0306-da.support.supportview.com^
+||00199d0306-drmp.support.supportview.com^
+||speedtest.oui-0x00199d.com^
