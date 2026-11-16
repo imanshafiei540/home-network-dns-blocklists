@@ -7,6 +7,7 @@ DNS blocklists for home devices and services. I'll update the lists as I verify 
 | List | Blocks |
 | --- | --- |
 | [Vizio](lists/vizio/) | Basic, strict, and max lists for Vizio devices |
+| [Google TV](lists/google-tv/) | Basic and strict lists for Google TV devices |
 
 ## AdGuard Home
 

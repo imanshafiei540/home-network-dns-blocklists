@@ -1,0 +1,50 @@
+! Title: Google TV Strict
+! Description: Google TV basic rules and additional services
+! Homepage: https://github.com/imanshafiei540/home-network-dns-blocklists
+!
+! Ads and analytics
+||googleads.g.doubleclick.net^
+||ad.doubleclick.net^
+||pubads.g.doubleclick.net^
+||static.doubleclick.net^
+||pagead2.googlesyndication.com^
+||ade.googlesyndication.com^
+||tpc.googlesyndication.com^
+||www.googleadservices.com^
+||securepubads.g.doubleclick.net^
+||app-measurement.com^
+||sdk.iad-03.braze.com^
+||sdk.iad-05.braze.com^
+||cdn-settings.appsflyersdk.com^
+!
+! Diagnostics
+||feedback-pa.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||crashlyticsreports-pa.googleapis.com^
+||firebase-settings.crashlytics.com^
+!
+! Launcher
+||androidtvlauncherxfe-pa.googleapis.com^
+!
+! Video ad insertion
+||dai.google.com^
+!
+! Activity and app configuration
+||footprints-pa.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||firebaseremoteconfigrealtime.googleapis.com^
+||clientsdk.launchdarkly.com^
+||mobile.launchdarkly.com^
+!
+! Research-related domains (purpose needs verification)
+||userpaneltv-pa.googleapis.com^
+||eligibility-panelresearch.googlevideo.com^
+!
+! Voice assistant
+||embeddedassistant.googleapis.com^
+!
+! Connectivity and Google services
+||connectivitycheck.gstatic.com^
+||clients3.google.com^
+||clients4.google.com^

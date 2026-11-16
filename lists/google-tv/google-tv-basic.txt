@@ -1,0 +1,24 @@
+! Title: Google TV Basic
+! Description: Ads, analytics, and diagnostics observed on Google TV
+! Homepage: https://github.com/imanshafiei540/home-network-dns-blocklists
+!
+! Ads and analytics
+||googleads.g.doubleclick.net^
+||ad.doubleclick.net^
+||pubads.g.doubleclick.net^
+||static.doubleclick.net^
+||pagead2.googlesyndication.com^
+||ade.googlesyndication.com^
+||tpc.googlesyndication.com^
+||www.googleadservices.com^
+||securepubads.g.doubleclick.net^
+||app-measurement.com^
+||sdk.iad-03.braze.com^
+||sdk.iad-05.braze.com^
+||cdn-settings.appsflyersdk.com^
+!
+! Diagnostics
+||feedback-pa.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||crashlyticsreports-pa.googleapis.com^
+||firebase-settings.crashlytics.com^
